@@ -1,0 +1,8 @@
+C:\Users\MONSTER\source\repos\CSharpEgitimKampi\07_ForEachLoop\bin\Debug\07_ForEachLoop.exe.config
+C:\Users\MONSTER\source\repos\CSharpEgitimKampi\07_ForEachLoop\bin\Debug\07_ForEachLoop.exe
+C:\Users\MONSTER\source\repos\CSharpEgitimKampi\07_ForEachLoop\bin\Debug\07_ForEachLoop.pdb
+C:\Users\MONSTER\source\repos\CSharpEgitimKampi\07_ForEachLoop\obj\Debug\07_ForEachLoop.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\CSharpEgitimKampi\07_ForEachLoop\obj\Debug\07_ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\CSharpEgitimKampi\07_ForEachLoop\obj\Debug\07_ForEachLoop.exe
+C:\Users\MONSTER\source\repos\CSharpEgitimKampi\07_ForEachLoop\obj\Debug\07_ForEachLoop.pdb
+C:\Users\MONSTER\source\repos\CSharpEgitimKampi\07_ForEachLoop\obj\Debug\07_ForEachLoop.exe.config
